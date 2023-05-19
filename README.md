@@ -1,6 +1,6 @@
 ### Hi there👋 or Hello world!
 
-<h3 align="center">I am a python lover but now developing a mobile app with React Native. I do content on what i am learning.</h3>
+<h3 align="center">I am a python lover. I do content on what i am learning.</h3>
 
 🌱 I’m currently learning **flask & django.**
 
